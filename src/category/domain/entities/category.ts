@@ -1,4 +1,4 @@
-import UniqueEntityId from "../../../@seedwork/domain/unique-entity-vo";
+import UniqueEntityId from "../../../@seedwork/domain/value-objects/unique-entity-id.vo";
 
 
 export interface CategoryProperties {
